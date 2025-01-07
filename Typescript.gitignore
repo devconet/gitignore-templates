@@ -5,7 +5,7 @@ node_modules/
 build/
 dist/
 
-# TypeScript
+# TypeScript cashe file
 *.tsbuildinfo
 
 # Next.js
@@ -68,3 +68,9 @@ Icon
 *~
 .directory
 .Trash-*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
